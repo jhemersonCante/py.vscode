@@ -1,0 +1,1 @@
+c = float(input('Qual é a temperatura '))
